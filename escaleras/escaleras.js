@@ -1,4 +1,4 @@
-import "../escaleras/escaleras.css";
+
 
 // Extend the base functionality of JavaScript
 Array.prototype.last = function () {
@@ -51,10 +51,10 @@ const transitioningSpeed = 2;
 const fallingSpeed = 2;
 
 const list = [
-  "No lo lograras",
-  "Eres insuficiente",
-  "Sera imposible para ti",
-  "Eres incapaz",
+  "A veces las metas son difíciles, pero no te rindas",
+  "El camino no siempre es fácil, pero no te rindas",
+  "Medir mejor tus metas te ayudara a lograrlas",
+  "Algunas metas pueden ser difíciles, pero no te rindas",
 ];
 let perder;
 
